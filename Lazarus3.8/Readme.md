@@ -9,3 +9,4 @@ Ini adalah paket lengkap Lazarus 3.8 Win 32/64 yang telah dilengkapi dengan libr
 4. LAMW   : Untuk membuat aplikasi Android
 5. ZeosDB  : Untuk membuat aplikasi database
 6. Pas2JS  : Untuk membuat aplikasi Web
+7. PasVLC  : Untuk membuat aplikasi Audio/Video
