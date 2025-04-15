@@ -13,3 +13,6 @@ Ini adalah paket lengkap Lazarus 3.8 Win 32/64 yang telah dilengkapi dengan libr
 8. LazMap  : Untuk membuat aplikasi Peta
 9. GLScene  : Untuk membuat aplikasi 3D
 10. CastleGameEngine  : Untuk membuat aplikasi Game 2D/3D
+
+
+Website : https://www.lazarus-ide.org/
