@@ -1,4 +1,4 @@
-# Lazarus 3.8 Completos
+# Lazarus 3.8 
 
 ![image](https://github.com/user-attachments/assets/d4a08481-fdc1-4df9-94e2-8cd49b0cc8a5)
 
