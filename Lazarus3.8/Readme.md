@@ -16,3 +16,7 @@ Ini adalah paket lengkap Lazarus 3.8 Win 32/64 yang telah dilengkapi dengan libr
 
 
 Website : https://www.lazarus-ide.org/
+
+Paket Completos ( Langsung Pakai ) 
+Cara :
+Extrak file rar ke Drive C:
