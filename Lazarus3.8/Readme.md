@@ -19,5 +19,6 @@ Website : https://www.lazarus-ide.org/
 
 ## Paket Completos ( Langsung Pakai ) : 
 Link : https://drive.google.com/uc?export=download&id=1SNLkd0Q5E_xz5xQlkkA86mfHZ7hzZas6
-Cara :
+
+Cara : 
 Extrak file rar ke Drive C:
