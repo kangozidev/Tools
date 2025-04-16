@@ -14,9 +14,10 @@ Ini adalah paket lengkap Lazarus 3.8 Win 32/64 yang telah dilengkapi dengan libr
 9. GLScene  : Untuk membuat aplikasi 3D
 10. CastleGameEngine  : Untuk membuat aplikasi Game 2D/3D
 
-
+## Paket Original
 Website : https://www.lazarus-ide.org/
 
-Paket Completos ( Langsung Pakai ) 
+## Paket Completos ( Langsung Pakai ) : 
+Link : https://drive.google.com/uc?export=download&id=1SNLkd0Q5E_xz5xQlkkA86mfHZ7hzZas6
 Cara :
 Extrak file rar ke Drive C:
